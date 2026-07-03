@@ -1,228 +1,124 @@
 <!-- ========================= -->
-<!--        BANNER WAVE        -->
+<!--        BANNER             -->
 <!-- ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:C8A2C8&height=220&section=header&text=Hi,%20I'm%20Snigdha%20Sindusha%20%F0%9F%8C%B8&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Strategist%20%E2%9C%A6%20Creative%20Designer%20%E2%9C%A6%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<!-- ========================= -->
-<!--      TYPING HEADER        -->
-<!-- ========================= -->
-<p align="center">
-  <a href="https://github.com/snigdhasindhushamantha">
-    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=D291BC&center=true&vCenter=true&width=650&lines=Building+products+where+Business+meets+Technology+%F0%9F%92%BB;Turning+ideas+into+meaningful+digital+experiences+%E2%9C%A8;MSc+International+Business+%40+University+of+Birmingham+Dubai+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:3E5C76&height=200&section=header&text=Snigdha%20Sindusha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=International%20Business%20%7C%20Product%20Strategy%20%7C%20Full%20Stack%20Development&descAlignY=58&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/snigdhasindhushamantha">
-    <img src="https://komarev.com/ghpvc/?username=snigdhasindhushamantha&label=Profile%20Views&color=D291BC&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-FFB6C1?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-C8A2C8?style=for-the-badge&logo=sparkles&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1000&color=3E5C76&center=true&vCenter=true&width=650&lines=MSc+International+Business+%40+University+of+Birmingham+Dubai;Bridging+Business+Strategy%2C+Technology+%26+Design;Turning+Data+into+Decisions+and+Ideas+into+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=snigdhasindhushamantha&label=Profile%20Views&color=3E5C76&style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Dubai%2C%20UAE-1B2A4A?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Product%20%26%20Strategy%20Roles-3E5C76?style=flat-square" />
 </p>
 
 ---
 
-## 🎀 About Me
+### 👋 About Me
 
-```yaml
-name: Snigdha Sindusha
-education: MSc International Business, University of Birmingham Dubai
-based_in: Dubai, UAE
-focus: Business Strategy • Product Thinking • Full Stack Development
-mindset: "Great products are built where creativity, strategy, and technology meet."
-```
+I'm a business student who works comfortably across strategy, data, and technology — combining analytical rigor with product thinking and design sensibility to build things that actually solve problems.
 
-- 🌱 &nbsp;Currently learning **Business Analytics** & **Full Stack Development**
-- 💡 &nbsp;Deeply interested in **Product Management**
-- 📊 &nbsp;Passionate about **Data-Driven Decision Making**
-- 🎨 &nbsp;Love designing intuitive, beautiful digital experiences
-- 🚀 &nbsp;Always excited to build something new and impactful
+- 🎓 MSc International Business, University of Birmingham Dubai
+- 🌱 Currently deepening skills in **Business Analytics** and **Full Stack Development**
+- 💡 Focused on **Product Management** and data-driven decision making
+- 🎨 Bring a design eye to everything I build — from dashboards to digital experiences
+- 🚀 Enjoy taking projects from idea to working prototype
 
 ---
 
-## 🌷 Featured Projects
+### 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🐾 Paws N Tails
-*A complete pet adoption ecosystem connecting users with shelters*
-
-- 🐶 Pet Adoption
-- 🏥 Vet Appointment Booking
-- 🛍️ Pet Store
-- 👤 User Dashboard
-- 🏠 Shelter Portal
-
+**🐾 Paws N Tails** — A complete pet adoption ecosystem connecting users with shelters
 `Spring Boot` `Java` `SQL` `REST APIs` `HTML/CSS/JS`
+Adoption flow · vet appointment booking · pet store · shelter portal · user dashboard
 
-</td>
-<td width="50%" valign="top">
+**📅 Plan Your Way** — Event management platform for conferences, seminars & social events
+Event planning · scheduling · team management · responsive dashboard UI
 
-### 📅 Plan Your Way
-*An event management platform for conferences, seminars & social events*
+**🎮 Reimagine Game Dev** — 🥈 2nd Runner-Up, GDSC VIT Bhimavaram × IGDC Hackathon
+Designed visual assets and user experience for the competition entry
 
-- 🗓️ Event Planning
-- 📊 Dashboard
-- ⏰ Scheduling
-- 👥 Team Management
-- 📱 Responsive UI
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Reimagine Game Dev
-🥈 **2nd Runner-Up**
-
-Designed visual assets and user experience during the GDSC VIT Bhimavaram × IGDC Hackathon.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 NCC Idea & Innovation Competition
-🎖️ **Top 15 National Finalist**
-
-Presented innovative business models and strategic solutions in New Delhi.
-
-</td>
-</tr>
-</table>
+**🏆 NCC Idea & Innovation Competition** — 🎖️ Top 15 National Finalist
+Presented innovative business models and strategic solutions in New Delhi
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**📱 Social Media Manager**
-Dept. of CS & IT, K L University
-
-- Managed digital branding
-- Increased engagement
-- Designed promotional campaigns
-- Content strategy
-
-</td>
-<td width="33%" valign="top">
-
-**🔐 Cyber Security Virtual Intern**
-AICTE × Palo Alto Networks
-
-- Network security
-- Firewalls
-- Cybersecurity fundamentals
-- Threat analysis
-
-</td>
-<td width="33%" valign="top">
-
-**🎓 University of Birmingham Dubai**
-MSc International Business
-
-- Business analytics
-- Global strategy
-- Product thinking
-
-</td>
-</tr>
-</table>
+| Role | Organization | Focus |
+|---|---|---|
+| Social Media Manager | Dept. of CS & IT, K L University | Digital branding, engagement growth, campaign design |
+| Cyber Security Virtual Intern | AICTE × Palo Alto Networks | Network security, firewalls, threat analysis |
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/Java-D291BC?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-C8A2C8?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/Java-3E5C76?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3E5C76?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3E5C76?style=flat-square&logo=postgresql&logoColor=white)
 
 **Web**
-<p>
-<img src="https://img.shields.io/badge/HTML-E8A0BF?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-DDA0DD?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F1C6D6?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML-1B2A4A?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1B2A4A?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1B2A4A?style=flat-square&logo=javascript&logoColor=white)
 
-**Frameworks**
-<p>
-<img src="https://img.shields.io/badge/SpringBoot-C9A0DC?style=for-the-badge&logo=springboot&logoColor=white" />
-</p>
-
-**Tools & Design**
-<p>
-<img src="https://img.shields.io/badge/Git-E1AFD1-black?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-AD88C6?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F7CFD8?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Photoshop-D8BFD8?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-F4C2C2?style=for-the-badge&logo=canva&logoColor=black" />
-</p>
+**Frameworks & Tools**
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
-## 🌸 Skills
+### 🌟 Core Skills
+
+Business Strategy · Operations Management · Logistics · Product Thinking · Data Analytics · UI/UX · Social Media Marketing · Python · SQL · Power BI · Database Management
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://img.shields.io/badge/Business%20Strategy-FADADD?style=flat-square" />
-<img src="https://img.shields.io/badge/Operations%20Management-FADADD?style=flat-square" />
-<img src="https://img.shields.io/badge/Logistics-FADADD?style=flat-square" />
-<img src="https://img.shields.io/badge/Product%20Thinking-E6C3DE?style=flat-square" />
-<img src="https://img.shields.io/badge/Graphic%20Design-E6C3DE?style=flat-square" />
-<img src="https://img.shields.io/badge/UI%2FUX-E6C3DE?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/Data%20Analytics-D9C2E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Social%20Media%20Marketing-D9C2E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-C9B7DD?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL-C9B7DD?style=flat-square" />
-<img src="https://img.shields.io/badge/Power%20BI-BBA6D8?style=flat-square" />
-<img src="https://img.shields.io/badge/Database%20Management-BBA6D8?style=flat-square" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snigdhasindhushamantha&show_icons=true&hide_border=true&title_color=3E5C76&icon_color=1B2A4A&text_color=333333&bg_color=F7F9FC"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhasindhushamantha&layout=compact&hide_border=true&title_color=3E5C76&text_color=333333&bg_color=F7F9FC"/>
 </p>
-
----
-
-
-
-## 🎯 Career Goal
-
-> To build innovative digital products that bridge business strategy, technology, and user-centered design — creating meaningful real-world impact.
-
----
-
-## 🌱 Currently Exploring
 
 <p align="center">
-<img src="https://img.shields.io/badge/Product%20Management-FFD1DC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Business%20Analytics-FFD1DC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-E6C3DE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20in%20Business-D9C2E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud%20Technologies-C9B7DD?style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhasindhushamantha&hide_border=true&background=F7F9FC&ring=3E5C76&fire=1B2A4A&currStreakLabel=3E5C76"/>
 </p>
 
 ---
 
-## 💌 Connect With Me
+### 🎯 Career Goal
+
+To build innovative digital products that bridge business strategy, technology, and user-centered design — creating meaningful real-world impact.
+
+---
+
+### 🌱 Currently Exploring
+
+Product Management · Business Analytics · Full Stack Development · AI Applications in Business · Cloud Technologies
+
+---
+
+### 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:snigdha08m@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D291BC?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1B2A4A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/snigdhasindhushamantha">
-    <img src="https://img.shields.io/badge/LinkedIn-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/snigdhasindhushamantha">
-    <img src="https://img.shields.io/badge/GitHub-AD88C6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -230,12 +126,8 @@ MSc International Business
 
 ---
 
-<p align="center">
-  <i>"Great products are built where creativity, strategy, and technology meet."</i> ✨
-</p>
+<p align="center"><i>"Great products are built where creativity, strategy, and technology meet."</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2C8,100:FFB6C1&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E5C76,100:1B2A4A&height=100&section=footer" width="100%"/>
 </p>
-
-<p align="center">⭐ Thanks so much for visiting my profile! ⭐</p>
