@@ -83,19 +83,6 @@ Business Strategy · Operations Management · Logistics · Product Thinking · D
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snigdhasindhushamantha&show_icons=true&hide_border=true&title_color=3E5C76&icon_color=1B2A4A&text_color=333333&bg_color=F7F9FC"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhasindhushamantha&layout=compact&hide_border=true&title_color=3E5C76&text_color=333333&bg_color=F7F9FC"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhasindhushamantha&hide_border=true&background=F7F9FC&ring=3E5C76&fire=1B2A4A&currStreakLabel=3E5C76"/>
-</p>
-
----
-
 ### 🎯 Career Goal
 
 To build innovative digital products that bridge business strategy, technology, and user-centered design — creating meaningful real-world impact.
