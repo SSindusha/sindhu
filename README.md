@@ -192,22 +192,7 @@ MSc International Business
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snigdhasindhushamantha&show_icons=true&hide_border=true&title_color=D291BC&icon_color=C8A2C8&text_color=555555&bg_color=FFF5F8"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhasindhushamantha&layout=compact&hide_border=true&title_color=D291BC&text_color=555555&bg_color=FFF5F8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhasindhushamantha&hide_border=true&background=FFF5F8&ring=D291BC&fire=C8A2C8&currStreakLabel=D291BC"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snigdhasindhushamantha&theme=redical&hide_border=true&bg_color=FFF5F8&color=D291BC&line=C8A2C8&point=AD88C6"/>
-</p>
-
----
 
 ## 🎯 Career Goal
 
